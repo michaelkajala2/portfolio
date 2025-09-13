@@ -68,9 +68,6 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
-
-
 </div>
 
 ---
