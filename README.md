@@ -2,13 +2,16 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Analyist** with **5 years** of experience in **Data Science**. I specialize in creating **end-to-end analytics solutions from exploratory data analysis to advanced machine learning algorithms** that **drive strategic decisions and deliver measurable business value**.
+I'm a passionate Data Analyst with 5 years of experience in Data Science.
 
-Currently, I'm **working as an Assistant Lecturer of Applied Mathematics at The Open University of Tanzania and actively pursuing opportunities in data science and machine learning**. I'm driven by **the challenge of extracting actionable insights from complex data and creating predictive models that drive decision-making** and love collaborating with teams to build **end-to-end analytics solutions that deliver measurable business value**.
+I specialize in creating end-to-end analytics solutions from exploratory data analysis to advanced machine learning algorithms that drive strategic decisions and deliver measurable business value.
 
-When I'm not analyzing data, you'll find me **playing football to stay active, watching athletics events for inspiration, or exploring local trails for both fitness and mental clarity**.
+Currently, I'm an Assistant Lecturer of Applied Mathematics at The Open University of Tanzania while actively pursuing data science opportunities. 
 
-🎯 I'm currently looking for: **Data Scientist positions where I can apply advanced analytics to solve complex business problems and drive data-driven decision making**.
+I'm driven by extracting actionable insights from complex data and building predictive models that solve real-world problems.
+When I'm not analyzing data, you'll find me playing football, following athletics, or exploring trails for fitness and mental clarity.
+
+I'm currently looking for: Data Scientist positions where I can apply advanced analytics to solve complex business problems and drive data-driven decision making.
 
 ---
 
@@ -29,8 +32,9 @@ When I'm not analyzing data, you'll find me **playing football to stay active, w
 
 ## 🚀 Featured Projects
 
--🤖 - AI-Powered Data Analytics Platform-comming soon!
--📈 StockNet Analyzer - Financial Network Intelligence Platform-comming soon!
+🤖 - AI-Powered Data Analytics Platform-*comming soon!*
+
+📈 StockNet Analyzer - Financial Network Intelligence Platform-*comming soon!*
 
 
 ## 📫 Let's Connect!
@@ -40,7 +44,7 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 ### 🌐 Find me online:
 
 ### 📧 Contact Information:
-- **Email:** michaelkajala2@gmail.com
+- **Email:** michaelkajala2@gmail.com/mkajala@aims.ac.tz
 - **Location:** Arusha/Mtwara, Tanzania
 - **Availability:** Available for freelance/contract work
 
@@ -55,11 +59,11 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 
 ## 🎯 Current Focus
 
-- 🔭 I'm currently working on **Analyzing stock market dynamics using machine learning to predict price movements and market volatility**
-- 🌱 I'm currently learning **Advanced time series forecasting techniques for financial markets (LSTM, ARIMA, Prophet, Stack-GARCH-LSTM)**
-- 👯 I'm looking to collaborate on **Open-source financial analytics tools and market prediction models**
-- 🤔 I'm looking for help with **Real-time model deployment for financial applications**
-- 💬 Ask me about **Stock market analysis, technical indicators, and financial data modeling. Python libraries for finance (pandas, numpy, yfinance, TA-Lib) and academic research methodologies*
+- 🔭 I'm currently working on *Analyzing stock market dynamics using machine learning to predict price movements and market volatility*
+- 🌱 I'm currently learning *Advanced time series forecasting techniques for financial markets (LSTM, ARIMA, Prophet, Stack-GARCH-LSTM)*
+- 👯 I'm looking to collaborate on *Open-source financial analytics tools and market prediction models*
+- 🤔 I'm looking for help with *Real-time model deployment for financial applications*
+- 💬 Ask me about *Stock market analysis,financial data modeling, Python libraries for finance, and academic research methodologies*
 ---
 
 <div align="center">
@@ -71,4 +75,4 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 
 ---
 
-*Last updated: [September 13, 2025]*
+*Last updated: September 13, 2025*
