@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Data Analyst with 5 years of experience in Data Science.
+I'm a passionate Data Analyist with 5 years of experience in Data Science.
 
 I specialize in creating end-to-end analytics solutions from exploratory data analysis to advanced machine learning algorithms that drive strategic decisions and deliver measurable business value.
 
