@@ -66,10 +66,4 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 - 💬 Ask me about *Stock market analysis,financial data modeling, Python libraries for finance, and academic research methodologies*
 ---
 
-<div align="center">
-
-</div>
-
----
-
 *Last updated: September 13, 2025*
