@@ -63,7 +63,6 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 - 🌱 I'm currently learning *Advanced time series forecasting techniques for financial markets (LSTM, ARIMA, Prophet, Stack-GARCH-LSTM)*
 - 👯 I'm looking to collaborate on *Open-source financial analytics tools and market prediction models*
 - 🤔 I'm looking for help with *Real-time model deployment for financial applications*
-- 💬 Ask me about *Stock market analysis,financial data modeling, Python libraries for finance, and academic research methodologies*
 ---
 
 *Last updated: September 13, 2025*
